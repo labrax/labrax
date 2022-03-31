@@ -44,12 +44,4 @@ This tool is built in R using the Shiny framework.
 
 ---
 
-- *[labrax/minimal-slurm](https://github.com/labrax/minimal-slurm)* is a simple setup for Slurm:
-
-Slurm is a software widely used in research to submit, queue and execute jobs. It is used in many research institution with high performance computing.
-
-This repository shows a implementation, without database, to have Slurm as a queueing system on a local machine. This is used in the research server at the University Hospitals Birmingham to enable hyperparameter search.
-
----
-
 To see what impact these tools have done see [here](https://scholar.google.com/citations?user=DoD54yUAAAAJ&hl=en).
