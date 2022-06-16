@@ -33,7 +33,7 @@ This tool is built in R using the Shiny framework.
 - *[gkoutos-group/threshold_picker](https://github.com/gkoutos-group/threshold_picker)* is a support tool for model decision:
 
 <p align="center">
-  <img src="./threshold_picker.png" alt="Threshold picker" height="250">
+  <img src="./threshold_picker2.png" alt="Threshold picker" height="250">
 </p>
 
 A risk model has trade-offs depending on the point of action. It is crucial to understand the consequences of each decision point.
